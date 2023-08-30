@@ -1,0 +1,202 @@
+html {
+   background-color: rgb(31, 30, 24);
+    
+}
+
+* {
+    box-sizing: content-box;
+    padding: 0;
+margin: 0;
+
+}
+
+.return {
+  position: absolute;
+  top: 0px;
+  
+  left: 920px;
+margin-top: 40px;
+  font-size: 32px;
+  
+  text-decoration: none;
+  z-index: 4;
+
+
+
+
+}
+.return:active{
+    color: red;
+}
+
+.jomama {
+    position: absolute;
+    top: 120px;
+   
+    left: 900px;
+  margin-top: 40px;
+    font-size: 32px;
+    text-decoration: none;
+    z-index: 4;
+
+
+}
+
+
+
+.world{
+    position: absolute;
+    top: 0px;
+    left: 480px;
+    height: 100%;
+    width: 50%;
+    background-image: url(https://wallpapers.com/images/hd/light-green-background-sqbsm53uu9tusu8n.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+   
+   
+  
+}
+
+
+
+.content {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    align-content: center;
+    margin-top: 50px;
+    font-size: 22px;
+    height: 600px;
+
+    
+
+    
+}
+
+.hey-1{
+    display: flex;
+    align-self: center;
+    justify-self: center;
+   width: 100px;
+   height: 80px;
+   justify-items: center;
+   align-items: center;
+   background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1024px-Instagram_logo_2022.svg.png);
+   background-repeat: no-repeat;
+   background-size: contain;
+   
+}
+
+.hey-2{
+    display: flex;
+    align-self: center;
+    justify-self: center;
+   width: 100px;
+   height: 80px;
+   justify-items: center;
+   align-items: center;
+
+   background-image: url(https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png);
+   background-repeat: no-repeat;
+   background-size: contain;
+    
+   
+}
+.hey-3{
+    display: flex;
+    align-self: center;
+    justify-self: center;
+   width: 100px;
+   height: 80px;
+   justify-items: center;
+   align-items: center;
+   background-image: url(https://upload.wikimedia.org/wikipedia/tr/thumb/c/c7/Discord_logo_new.svg/2560px-Discord_logo_new.svg.png);
+   background-repeat: no-repeat;
+   background-size: contain;
+   
+}
+.hey-4{
+    display: flex;
+    align-self: center;
+    justify-self: center;
+   width: 100px;
+   height: 80px;
+   justify-items: center;
+   align-items: center;
+   background-image: url(https://about.twitter.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png);
+   background-repeat: no-repeat;
+   background-size: contain;
+   
+}
+.hey-5{
+    display: flex;
+    align-self: center;
+    justify-self: center;
+   width: 100px;
+   height: 80px;
+   justify-items: center;
+   align-items: center;
+   background-image: url(https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png);
+   background-repeat: no-repeat;
+   background-size: contain;
+   
+}
+
+.hey-alt {
+    display: flex;
+    margin-top: 120px;
+    text-decoration: none;
+    color: black;
+    text-decoration: underline;
+  
+
+}
+.hey-alt-2 {
+    display: flex;
+    margin-top: 120px;
+
+    text-decoration: none;
+    color: black;
+    margin-left: 10px;
+    text-decoration: underline;
+
+    
+
+}
+.hey-alt-3 {
+    display: flex;
+    margin-top: 120px;
+    margin-left: 30px;
+    text-decoration: none;
+    color: black;
+    margin-left: 14px;
+    text-decoration: underline;
+
+
+}
+
+.hey-alt-4 {
+    display: flex;
+    margin-top: 120px;
+    margin-left: 30px;
+    text-decoration: none;
+    color: black;
+    margin-left: 7px;
+    text-decoration: underline;
+
+
+}
+
+.hey-alt-5 {
+    display: flex;
+    margin-top: 120px;
+    margin-left: 30px;
+    text-decoration: none;
+    color: black;
+    text-decoration: underline;
+
+
+}
